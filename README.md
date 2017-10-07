@@ -1,3 +1,2 @@
 # hello-world
-test repository to learn github
 I don't understand why the github desktop gui is so confusing and i can't find any tutorials for it...
